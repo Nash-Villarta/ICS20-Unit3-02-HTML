@@ -4,11 +4,12 @@
   border: 1px solid black;
   padding: 20px;
 }
-
 .image {
   border: 2px solid black;
 }
-
-.table, tr, th {
+tr {
+  border: 2px solid black;
+}
+th {
   border: 2px solid black;
 }
